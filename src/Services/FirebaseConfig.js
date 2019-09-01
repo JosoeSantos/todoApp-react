@@ -1,5 +1,5 @@
 const config = {
-    apiKey: "AIzaSyC0A6xbsL2zu4Dy8KYHSX6xI8cmZtuJA_0",
+    apiKey: "<API_KEY>",
     authDomain: "todoappdti.firebaseapp.com",
     databaseURL: "https://todoappdti.firebaseio.com",
     projectId: "todoappdti",
